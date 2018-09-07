@@ -13,7 +13,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Adventures](#adventures)
 - [RPG](#rpg)
 - [Strategy](#strategy)
-- [Sports](£sports)
+- [Sports](#sports)
 
 ## Action
 - [Overwatch](https://sv.wikipedia.org/wiki/Overwatch) - A popular fast paced shooter where team play and strategy is key to success.
