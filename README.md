@@ -11,7 +11,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Action](#action)
 - [Adventures](#adventures)
-- [RPG](#RPG)
+- [RPG](#rpg)
 - [Strategy](#strategy)
 - [Sports](£sports)
 
