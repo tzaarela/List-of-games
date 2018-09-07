@@ -29,7 +29,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley) - Farming and friendship packed into one pixly package.
 
-[Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
+- [Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
 
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
