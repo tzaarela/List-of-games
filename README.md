@@ -29,6 +29,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley) - Farming and friendship packed into one pixly package.
 
+[Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
 
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
@@ -45,4 +46,4 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Rome: Total War](https://en.wikipedia.org/wiki/Rome:_Total_War) - Awesome and deep turn-based strategy game in which you attempt to build an empire to conquer the known world (Europe + a bit of Africa and Asia). Also, you can direct the battles yourself, which means that you can feel super awesome when winning against very unlikely odds!
 
 ## Sports
-- [Blades of Steel](https://en.wikipedia.org/wiki/Blades_of_Steel) - Old school hockey action! 
+- [Blades of Steel](https://en.wikipedia.org/wiki/Blades_of_Steel) - Old school hockey action!
