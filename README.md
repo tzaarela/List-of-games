@@ -34,6 +34,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
 
+- [Just Cause 3](https://en.wikipedia.org/wiki/Just_Cause_3)  -  use your parachute, for everything... everything.
+
 - [Streets of Rogue](https://store.steampowered.com/app/512900/Streets_of_Rogue/) - Action-filled multiplayer roguelike with a bunch of different characters.
 
 ## RPG
