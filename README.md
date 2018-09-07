@@ -29,6 +29,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Stardew Valley](https://en.wikipedia.org/wiki/Stardew_Valley) - Farming and friendship packed into one pixly package.
 
+- [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) - An hack 'n slash dystopian set in the future where androids fight machines to retake earth.
+
 - [Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
 
 ## RPG
