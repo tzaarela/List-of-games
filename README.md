@@ -31,6 +31,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
 
+## RPG
+- [Dungeon Siege](https://sv.wikipedia.org/wiki/Dungeon_Siege) - Slash some krug up and crawl through dark dungeons with spoopy skeletons.
+
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
 
