@@ -11,8 +11,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Action](#action)
 - [Adventures](#adventures)
+- [RPG](#rpg)
 - [Strategy](#strategy)
-- [Sports](£sports)
+- [Sports](#sports)
 
 ## Action
 - [Overwatch](https://sv.wikipedia.org/wiki/Overwatch) - A popular fast paced shooter where team play and strategy is key to success.
@@ -35,6 +36,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [Just Cause 3](https://en.wikipedia.org/wiki/Just_Cause_3)  -  use your parachute, for everything... everything.
 
+- [Streets of Rogue](https://store.steampowered.com/app/512900/Streets_of_Rogue/) - Action-filled multiplayer roguelike with a bunch of different characters.
+
 ## RPG
 - [Dungeon Siege](https://sv.wikipedia.org/wiki/Dungeon_Siege) - Slash some krug up and crawl through dark dungeons with spoopy skeletons.
 
@@ -55,3 +58,4 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Sports
 - [Blades of Steel](https://en.wikipedia.org/wiki/Blades_of_Steel) - Old school hockey action!
 
+- [Rocket League](https://en.wikipedia.org/wiki/Rocket_League) - Football dome full of flying racing cars, the ultimate chaos! What's not to like?
