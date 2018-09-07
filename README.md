@@ -1,4 +1,4 @@
-# List-of-games
+﻿# List-of-games
 
 <img src="https://media.giphy.com/media/q8ikv1X86Iw12/giphy.gif" alt="Awesome Games" width="100%">
 
@@ -32,6 +32,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Nier: Automata](https://en.wikipedia.org/wiki/Nier:_Automata) - An hack 'n slash dystopian set in the future where androids fight machines to retake earth.
 
 - [Dying Light](https://sv.wikipedia.org/wiki/Dying_Light)  - Try to survive in a city full of zombies while using your parkour-skills.
+
+- [Streets of Rogue](https://store.steampowered.com/app/512900/Streets_of_Rogue/) - Action-filled multiplayer roguelike with a bunch of different characters.
 
 ## RPG
 - [Dungeon Siege](https://sv.wikipedia.org/wiki/Dungeon_Siege) - Slash some krug up and crawl through dark dungeons with spoopy skeletons.
