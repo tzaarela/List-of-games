@@ -52,3 +52,5 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 ## Sports
 - [Blades of Steel](https://en.wikipedia.org/wiki/Blades_of_Steel) - Old school hockey action!
+
+- [Rocket League](https://en.wikipedia.org/wiki/Rocket_League) - Football dome full of flying racing cars, the ultimate chaos! What's not to like?
