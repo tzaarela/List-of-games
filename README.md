@@ -14,6 +14,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [RPG](#rpg)
 - [Strategy](#strategy)
 - [Sports](#sports)
+- [MMORPG](#MMORPG)
 
 ## Action
 - [Overwatch](https://sv.wikipedia.org/wiki/Overwatch) - A popular fast paced shooter where team play and strategy is key to success.
@@ -69,3 +70,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Rocket League](https://en.wikipedia.org/wiki/Rocket_League) - Football dome full of flying racing cars, the ultimate chaos! What's not to like?
 
 - [Echo Arena/Echo VR](https://en.wikipedia.org/wiki/Lone_Echo) - Frisby mixed with boxing in zero-gravity. An experience similar to rocket league. (VR only)
+
+## MMORPG
+- [EVE Online](https://en.wikipedia.org/wiki/Eve_Online) - Sandbox sci-fi MMORPG. Corporation warfare with full hardcore pvp.
