@@ -41,6 +41,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## RPG
 - [Dungeon Siege](https://sv.wikipedia.org/wiki/Dungeon_Siege) - Slash some krug up and crawl through dark dungeons with spoopy skeletons.
 
+- [Witcher 3: The Wild Hunt](https://sv.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) - Play as the sword and magic wielding Geralt of Rivia and hunt ghouls, drowners and other kinds of monsters.
+
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
 
