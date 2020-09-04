@@ -44,6 +44,8 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Adventures
 - [Zelda](https://sv.wikipedia.org/wiki/The_Legend_of_Zelda_) - One of the best games of all times.
 
+- [Planescape Torment](https://en.wikipedia.org/wiki/Planescape:_Torment) - The peak of storytelling in video games. A truly immersive, beautifully crafted, emotionally engaging adventure set in the Planescape D&D universe.
+
 - [Portal](https://en.wikipedia.org/wiki/Portal_(video_game)) - The best just the best puzzle game.
 
 - [West of Loathing](https://en.wikipedia.org/wiki/West_of_Loathing) - An awesome comedy western rpg set in a stick figure universe.
