@@ -49,6 +49,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [West of Loathing](https://en.wikipedia.org/wiki/West_of_Loathing) - An awesome comedy western rpg set in a stick figure universe.
 
 ## Strategy
+- - [Black & White]/https://en.wikipedia.org/wiki/Black_%26_White_(video_game)) - Be the god over your world and conquer over other gods. Evil or good, black or white. Control your creature, shape him in your commands by reward or punishment. Use powerful spells and destroy villages or be worshiped.
 - [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) - Legendary turn-based strategy game series in which you attempt to build an empire to stand the test of time.
 
 - [Rimworld](https://rimworldgame.com/) - An epic survival game where you build a colony on a rimworld planet. Like dwarf fortress but with better graphics and IN SPACE!
