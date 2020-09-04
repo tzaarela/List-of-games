@@ -48,6 +48,9 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 
 - [West of Loathing](https://en.wikipedia.org/wiki/West_of_Loathing) - An awesome comedy western rpg set in a stick figure universe.
 
+## Metroidvania
+- [Ori and the Blind Forest](https://en.wikipedia.org/wiki/Ori_and_the_Blind_Forest) - One of the best metroidvania games ever made?
+
 ## Strategy
 - [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) - Legendary turn-based strategy game series in which you attempt to build an empire to stand the test of time.
 
